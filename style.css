@@ -20,7 +20,7 @@ body{
     background-position: relative;
 }
 .header {
-    background-color: #0073e6;
+    background-color: white;
     color: #0073e6;
     padding: 1rem 0;
 }
@@ -375,6 +375,7 @@ border-radius: 5px;
         width: 900px;
         border-radius: 12px;
         margin-left: 5cm;
+        margin-bottom: 1cm;
 
     }
     
@@ -403,4 +404,7 @@ border-radius: 5px;
     margin-top: 18px;
    } 
 
+}
+.third-container{
+    width: ;
 }
